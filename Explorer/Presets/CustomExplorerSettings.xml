@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Settings component="Explorer" version="4.3.1">
+	<AddressBarHistory value="SimplePath"/>
+	<UseBigButtons value="0"/>
+	<ResizeableToolbar value="1"/>
+	<ToolbarItems>
+		<Line>Items=SettingsItem</Line>
+		<Line>SettingsItem.Command=settings</Line>
+		<Line>SettingsItem.Tip=$Toolbar.Settings</Line>
+		<Line>SettingsItem.Icon=,1</Line>
+	</ToolbarItems>
+	<HideScrollTip value="1"/>
+</Settings>
